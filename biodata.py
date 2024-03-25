@@ -1,0 +1,13 @@
+nama=input('masukan nama : ')
+nim=input('masukan nim : ')
+umur=int(input('masukan umur : '))
+alamat=input('masukan alamtat : ')
+lulusan=input('lulusan sekolah : ')
+
+print('=='*10)
+print('nama : ',nama)
+print('nim : ',nim)
+print('umur : ',umur)
+print('almat : ',alamat)
+print('asal sekolah : ',lulusan)
+print('=='*10)
